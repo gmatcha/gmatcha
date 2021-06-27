@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! こんにちは! 👋 💁
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gmatcha&row=2&colume=2&title=Followers,Stars,Repositories)](https://github.com/gmatcha/github-profile-trophy)
 
 <!--
 **gmatcha/gmatcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
